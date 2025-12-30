@@ -98,18 +98,7 @@
         <p align="center">
           <code>Natural Language → SimPy Models</code><br/>
           <b>80% faster</b> simulation development<br/>
-          Speaking at <b>WSC 2025</b> Seattle
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Impact Metrics</h3>
-        <p align="center">
-          <b>500M+</b> events/day @ Microsoft<br/>
-          <b>83%</b> latency reduction @ Nyobolt<br/>
-          <b>99.2%</b> uptime @ GAGAN Aviation
-        </p>
-      </td>
-    </tr>
+          Speaking at <b>WSC 2025</b> Seattle 
   </table>
 </div>
 
