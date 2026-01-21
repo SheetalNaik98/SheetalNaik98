@@ -1,42 +1,34 @@
 <div align="center">
   
-  ## 👋 Hi there, I'm
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Sheetal+Naik;Lead+AI+Engineer+@+TwinAI;Building+SIMINI;WSC+2025+Speaker" alt="Typing Animation" />
-  
-  <p align="center">
-    <i>Turning natural language into executable simulations • From raw data to deployed intelligence</i>
-  </p>
-  
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sheetalnaik22">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:sheetalnaika22@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/SheetalNaik98">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+## 👋 Hi there, I'm
+
+# Sheetal Naik
+### Lead AI Engineer @ TwinAI | Building SIMINI | WSC 2025 Speaker
+
+<p align="center">
+  <i>Turning natural language into executable simulations • From raw data to deployed intelligence</i>
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheetalnaik22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sheetalnaika22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SheetalNaik98">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 </div>
 
 ---
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SheetalNaik98&show_icons=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=SheetalNaik98&theme=transparent&hide_border=true&ring=0EA5E9&fire=06B6D4&currStreakLabel=0EA5E9&dates=c9d1d9&sideLabels=c9d1d9&background=0d1117" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SheetalNaik98/SheetalNaik98/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SheetalNaik98/SheetalNaik98/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SheetalNaik98/SheetalNaik98/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SheetalNaik98&show_icons=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&bg_color=0d1117" alt="Sheetal's GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=SheetalNaik98&theme=transparent&hide_border=true&ring=0EA5E9&fire=06B6D4&currStreakLabel=0EA5E9&dates=c9d1d9&sideLabels=c9d1d9&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -88,22 +80,56 @@
 
 ---
 
-## What I'm Building
+## 🚀 What I'm Building
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">SIMINI Platform</h3>
+        <h3 align="center">🎯 SIMINI Platform</h3>
         <p align="center">
-          <code>Natural Language → SimPy Models</code><br/>
+          <code>Natural Language → SimPy Models</code>
+        </p>
+        <p align="center">
           <b>80% faster</b> simulation development<br/>
-          Speaking at <b>WSC 2025</b> Seattle 
+          Speaking at <b>WSC 2025</b> Seattle
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🧠 TCM Research</h3>
+        <p align="center">
+          <code>Transactive Cognitive Memory for Multi-Agent AI</code>
+        </p>
+        <p align="center">
+          Thompson Sampling + Beta-Bernoulli trust updates<br/>
+          Learned task delegation in agentic systems
+        </p>
+      </td>
+    </tr>
   </table>
+</div>
+
+---
+
+## 📈 Experience Highlights
+
+<div align="center">
+
+| Domain | Impact |
+|--------|--------|
+| 🔋 **EV Battery Analytics** | Real-time diagnostics at Nyobolt |
+| ✈️ **Aviation Systems** | GAGAN navigation for Airports Authority of India |
+| ☁️ **Cloud Infrastructure** | Microsoft O365 telemetry at Microland |
+| 🤖 **AI/ML Platforms** | Production multi-agent systems at TwinAI |
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SheetalNaik98&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile Views" />
+  
+  <br/><br/>
+  
+  <i>Open to AI/ML Engineering opportunities • Let's connect!</i>
 </div>
